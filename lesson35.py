@@ -12,8 +12,6 @@
 
 # print(parentness('python'))
 
-# class -
-
 
 
 
